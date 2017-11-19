@@ -15,4 +15,7 @@ private:
 private:
 	sf::RenderWindow gameWindow;
 
+	// Background
+	sf::Texture bgTexture;
+	sf::Sprite bgSprite;
 };
